@@ -1,4 +1,4 @@
-extBlink ✨
+TextBlink ✨
 
 A fast, free, browser-based text manipulation tool.
 
